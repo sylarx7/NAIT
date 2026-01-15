@@ -1,0 +1,74 @@
+Structured Problem Solving
+
+Breaks down problem
+
+	identify inputs, outputs and constraints.
+
+	* what do we need?
+	* what are the limitations or constraints???
+
+2.Analyze the problem
+	break the problem into smaller constraints.
+
+3. Make a Plan
+	- create a simple ordered list to solve the problem
+	* input > output
+
+4. Implement the solution
+	- 
+
+
+Lesson 01 – Problem Solving Fundamentals –
+Example Problems
+For each of the following problems, use Structured Problem Solving to design
+and test a solution.
+
+1. The XYZ Corporation's marketing department recently conducted a
+survey and found that their online advertising campaign resulted in a
+conversion rate of 0.8%. They are now planning a new campaign and
+want to estimate the potential number of conversions based on their
+target audience size. Write a program that will estimate the number of
+conversions for a target audience size of 3M.
+
+Define the problem clearly:
+	- online advertising campaign resulted in a conversion rate of 0.8%.
+	- want to estimate the potential number of conversion based on their target size for 		for the new campaign.
+	- write a program that will estimate the number of conversion for a target audience 		size of 3million.
+	- input - X number of target audience (3million)
+	- output - estimated number of conversion for the target audience.
+	- constraint - using the conversion rate of 0.8%
+
+Analyze the problems
+	- based on the recent survey that resulted in a conversion rate of 0.8%, it resulted 		around 24,000 converts out of 3M.
+	- 
+Make a plan:
+Implement the solution:
+Testing and Evaluating:
+
+
+2. You need to get 5 cats into one carrier in 30 minutes so you can make
+it to their vet appointment. The cats are not cooperative and may
+scatter or hide when they sense something is up. Treats, toys, and
+other lures can be used.
+
+Define the problem clearly:
+
+Analyze the problem:
+
+Make a plan:
+
+Implement the solution:
+
+Testing and Evaluting:
+
+3. A problem from your life.
+
+Define the problem clearly:
+
+Analyze the problem:
+
+Make a plan:
+
+Implement the solution:
+
+Testing and Evaluting:

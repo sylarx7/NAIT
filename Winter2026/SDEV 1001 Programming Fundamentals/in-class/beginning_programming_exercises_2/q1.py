@@ -6,4 +6,4 @@ user_acres = float(input("Acre to Square foot converter. How many acres do you h
 ACRE_TO_SQUARE = user_acres * 43560
 
 #display result
-print(f"You have {user_acres} which is equal to {ACRE_TO_SQUARE} feet")
+print(f"You have {user_acres} which is equal to {ACRE_TO_SQUARE} square feet")
